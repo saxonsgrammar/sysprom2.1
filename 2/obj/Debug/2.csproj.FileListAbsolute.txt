@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\bin\Debug\2.exe.config
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\bin\Debug\2.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\bin\Debug\2.pdb
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\obj\Debug\2.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\2\obj\Debug\2.pdb

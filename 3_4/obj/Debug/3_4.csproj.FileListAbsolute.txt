@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\bin\Debug\3_4.exe.config
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\bin\Debug\3_4.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\bin\Debug\3_4.pdb
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\obj\Debug\3_4.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\obj\Debug\3_4.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\obj\Debug\3_4.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп2\homework\3_4\obj\Debug\3_4.pdb
